@@ -27,11 +27,11 @@ Before getting started, make sure you have the following:
 ```
 |-- Basys3-AND-Gate-Implementation.srcs
 |   |-- constrs_1\new
-        |-- basys3.xdc
+|       |-- basys3.xdc
 |   |-- sim_1\new
+|       |-- andGate_tb.sv
+|   |-- sources_1\new
 |       |-- andGate.sv
-|-- constraints
-|   |-- basys3.xdc
 |-- README.md
 ```
 
