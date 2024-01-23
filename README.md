@@ -33,6 +33,8 @@ Before getting started, make sure you have the following:
 |   |-- sources_1\new
 |       |-- andGate.sv
 |-- README.md
+|-- simulation.png
+|-- schematic.png
 ```
 
 ## Instructions
