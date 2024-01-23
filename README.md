@@ -18,9 +18,7 @@ Before getting started, make sure you have the following:
 
 2. **Simulation:** A simulation file will be created to verify the functionality of the AND gate design.
 
-3. **Bitstream Generation:** Instructions will be provided for generating the bitstream that will be loaded onto the Basys 3 board.
-
-4. **Constraints:** Constraint files (.xdc) will be generated to specify the I/O connections and timing constraints for the design.
+3. **Constraints:** Constraint files (.xdc) will be generated to specify the I/O connections and timing constraints for the design.
 
 ## Project Structure
 
