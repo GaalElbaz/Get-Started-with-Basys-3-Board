@@ -26,9 +26,9 @@ Before getting started, make sure you have the following:
 
 ```
 |-- src
-|   |-- and_gate.sv
+|   |-- andGate.sv
 |   |-- simulation
-|       |-- and_gate_tb.sv
+|       |-- andGate_tb.sv
 |-- constraints
 |   |-- basys3.xdc
 |-- README.md
