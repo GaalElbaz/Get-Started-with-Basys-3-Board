@@ -25,8 +25,9 @@ Before getting started, make sure you have the following:
 ## Project Structure
 
 ```
-|-- src
-|   |-- andGate.sv
+|-- Basys3-AND-Gate-Implementation.srcs
+|   |-- constrs_1\new
+        |-- basys3.xdc
 |   |-- simulation
 |       |-- andGate_tb.sv
 |-- constraints
