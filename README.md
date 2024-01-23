@@ -28,8 +28,8 @@ Before getting started, make sure you have the following:
 |-- Basys3-AND-Gate-Implementation.srcs
 |   |-- constrs_1\new
         |-- basys3.xdc
-|   |-- simulation
-|       |-- andGate_tb.sv
+|   |-- sim_1\new
+|       |-- andGate.sv
 |-- constraints
 |   |-- basys3.xdc
 |-- README.md
